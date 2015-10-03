@@ -94,7 +94,7 @@ codepiano :
   # 修改google分析工具的id       
   # 如果想自定义分析服务提供商，请自行google
   analytics :
-    provider : false 
+    provider : google 
     google : 
         tracking_id : 'UA-40934298-1'
 
